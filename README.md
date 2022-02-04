@@ -21,7 +21,9 @@ Throughout the developing process of the Portfolio webpage, when Im  developed t
 -Git & Github.
 
 ## Who is created this project ?
-[Omar AbuRabie](https://github.com/omaraburabie3)
+Devloped by :[Omar AbuRabie](https://github.com/omaraburabie3)
 
 ## Output and Result :-
 
+
+![MyPortfolio_img](https://user-images.githubusercontent.com/88033669/152560231-245cf014-4319-4892-9d7a-61fa472dcab2.png)
