@@ -193,3 +193,14 @@ img {
     font-size: 8em;
     text-align: center;
 }
+.contact .icon{
+    font-size: 4.5em;
+}
+
+.contact .info h3 {
+    color: #000;
+}
+
+.contact .info p {
+    font-size: 1.2em;
+}   
